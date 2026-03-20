@@ -25,7 +25,8 @@ Photo of Top case -<br>
 <img width="273" height="294" alt="Screenshot 2026-03-19 125033" src="https://github.com/user-attachments/assets/d987b9bc-af76-45b7-91ec-cf84f754e936" />
 <br>
 Photo of complete enclosure along with PCB - <br>
-<img width="325" height="412" alt="Screenshot 2026-03-19 141038" src="https://github.com/user-attachments/assets/62421dd9-f6f0-4e2a-9050-49199564775b" />
+<img width="479" height="510" alt="image" src="https://github.com/user-attachments/assets/26e4396a-65cf-4741-a7c5-ffb53b68f5f2" />
+
 
 
 Phot
