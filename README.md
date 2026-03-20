@@ -8,3 +8,18 @@ The custom enclosure is designed in Onshape with mirror L-shaped key layout, kee
 
 Photo of Schematic-
 <img width="1263" height="568" alt="Screenshot 2026-03-15 135754" src="https://github.com/user-attachments/assets/41828d95-0ede-4181-b2c4-8237aa89c2f8" />
+
+Photo of PCB - 
+<img width="461" height="528" alt="Screenshot 2026-03-15 153422" src="https://github.com/user-attachments/assets/46823320-48d2-4980-bb55-59fa9114719f" />
+
+Photo of Bottom Case of Keyboard along with PCB - 
+<img width="268" height="338" alt="Screenshot 2026-03-19 134231" src="https://github.com/user-attachments/assets/fae5edf8-a655-49a5-9eb0-371ab8293a9b" />
+
+Photo of Top case -
+<img width="273" height="294" alt="Screenshot 2026-03-19 125033" src="https://github.com/user-attachments/assets/d987b9bc-af76-45b7-91ec-cf84f754e936" />
+
+Photo of complete enclosure along with PCB - 
+<img width="325" height="412" alt="Screenshot 2026-03-19 141038" src="https://github.com/user-attachments/assets/62421dd9-f6f0-4e2a-9050-49199564775b" />
+
+
+Phot
