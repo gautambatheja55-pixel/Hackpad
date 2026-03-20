@@ -1,2 +1,10 @@
+Onshape Link - https://cad.onshape.com/documents/47f8368e93eaf8da6dc25993/w/31c6b6148a0a80bae448b462/e/a1663b0df239ec6de66db4a1?renderMode=0&uiState=69bcdbc809603b577da537d5
 # Hackpad
 A custom macropad built for the Blueprint Hack Club
+It includes three mechanical keys (Ctrl, C, and V independently — meaning they work as dedicated keys that combine naturally, just like a real keyboard) Hold Ctrl and tap C to copy, hold Ctrl and tap V to paste, or use Ctrl alone for any other combination.
+A rotary encoder doubles as a scroll wheel for smooth document and page navigation, with its built-in push button functioning as a left click — making it a complete navigation control in one compact knob.
+An RGB LED provides intuitive visual feedback: red on power-on, orange during encoder interaction, and green when a key is pressed
+The custom enclosure is designed in Onshape with mirror L-shaped key layout, keeping the form factor minimal while maintaining a clean, purposeful aesthetic. The board runs on a Seeed XIAO SAMD21 microcontroller powered via USB-C, with firmware written in CircuitPython for easy modification and extensibility.
+
+Photo of Schematic-
+<img width="1263" height="568" alt="Screenshot 2026-03-15 135754" src="https://github.com/user-attachments/assets/41828d95-0ede-4181-b2c4-8237aa89c2f8" />
