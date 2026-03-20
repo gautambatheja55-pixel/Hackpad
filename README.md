@@ -13,7 +13,7 @@ The custom enclosure is designed in Onshape with mirror L-shaped key layout, kee
 Photo of Schematic-<br>
 <img width="1263" height="568" alt="Screenshot 2026-03-15 135754" src="https://github.com/user-attachments/assets/41828d95-0ede-4181-b2c4-8237aa89c2f8" />
 <br>
-Photo of PCB - <br>
+Photo of PCB (with an Easter Egg!) - <br>
 <img width="406" height="538" alt="image" src="https://github.com/user-attachments/assets/02b6fc6d-429e-41f6-b03e-64b47cd95cf0" />
 
 <br>
