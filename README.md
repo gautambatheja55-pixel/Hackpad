@@ -1,4 +1,4 @@
-Onshape Link - https://cad.onshape.com/documents/47f8368e93eaf8da6dc25993/w/31c6b6148a0a80bae448b462/e/a1663b0df239ec6de66db4a1?renderMode=0&uiState=69bcdbc809603b577da537d5
+
 # Hackpad
 A custom macropad built for the Blueprint Hack Club. <br>
 It includes three mechanical keys (Ctrl, C, and V independently — meaning they work as dedicated keys that combine naturally, just like a real keyboard)<br>
@@ -11,22 +11,23 @@ An RGB LED provides intuitive visual feedback: red on power-on, orange during en
 The custom enclosure is designed in Onshape with mirror L-shaped key layout, keeping the form factor minimal while maintaining a clean, purposeful aesthetic. The board runs on a Seeed XIAO SAMD21 microcontroller powered via USB-C, with firmware written in CircuitPython for easy modification and extensibility.
 
 Photo of Schematic-<br>
-<img width="966" height="383" alt="image" src="https://github.com/user-attachments/assets/8df9340f-ef3f-458b-885d-32fe5e9eba2f" />
+<img width="973" height="389" alt="image" src="https://github.com/user-attachments/assets/3bab2b7d-5844-4ef2-bcb9-67628891f084" />
 
 <br>
 Photo of PCB (with an Easter Egg!) - <br>
-<img width="406" height="538" alt="image" src="https://github.com/user-attachments/assets/02b6fc6d-429e-41f6-b03e-64b47cd95cf0" />
+<img width="489" height="556" alt="image" src="https://github.com/user-attachments/assets/ab9ef818-b08f-4270-be44-3b6ac4fca3b6" />
 
-<br>
-Photo of Bottom Case of Keyboard along with PCB - <br>
-<img width="268" height="338" alt="Screenshot 2026-03-19 134231" src="https://github.com/user-attachments/assets/fae5edf8-a655-49a5-9eb0-371ab8293a9b" />
 <br>
 Photo of Top case -<br>
-<img width="273" height="294" alt="Screenshot 2026-03-19 125033" src="https://github.com/user-attachments/assets/d987b9bc-af76-45b7-91ec-cf84f754e936" />
+<img width="271" height="348" alt="image" src="https://github.com/user-attachments/assets/4695dcf8-f9d6-4ee1-bd0b-a437a3a22af2" />
+
 <br>
 Photo of complete enclosure along with PCB - <br>
-<img width="479" height="510" alt="image" src="https://github.com/user-attachments/assets/26e4396a-65cf-4741-a7c5-ffb53b68f5f2" />
+<img width="464" height="534" alt="image" src="https://github.com/user-attachments/assets/bfe9ce43-4ce9-4e7c-9977-542de1065836" />
 
+<img width="479" height="510" alt="image" src="https://github.com/user-attachments/assets/26e4396a-65cf-4741-a7c5-ffb53b68f5f2" />
+<br><br>
+Onshape Link - https://cad.onshape.com/documents/47f8368e93eaf8da6dc25993/w/31c6b6148a0a80bae448b462/e/a1663b0df239ec6de66db4a1?renderMode=0&uiState=69be299fc55ce46205b5f6af
 
 
 Phot
