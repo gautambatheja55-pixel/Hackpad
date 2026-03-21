@@ -25,7 +25,7 @@ Photo of Top case -<br>
 Photo of complete enclosure along with PCB - <br>
 <img width="464" height="534" alt="image" src="https://github.com/user-attachments/assets/bfe9ce43-4ce9-4e7c-9977-542de1065836" />
 
-<img width="479" height="510" alt="image" src="https://github.com/user-attachments/assets/26e4396a-65cf-4741-a7c5-ffb53b68f5f2" />
+
 <br><br>
 Onshape Link - https://cad.onshape.com/documents/47f8368e93eaf8da6dc25993/w/31c6b6148a0a80bae448b462/e/a1663b0df239ec6de66db4a1?renderMode=0&uiState=69be299fc55ce46205b5f6af
 
