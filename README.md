@@ -15,7 +15,8 @@ Photo of Schematic-<br>
 
 <br>
 Photo of PCB (with an Easter Egg!) - <br>
-<img width="489" height="556" alt="image" src="https://github.com/user-attachments/assets/ab9ef818-b08f-4270-be44-3b6ac4fca3b6" />
+<img width="417" height="543" alt="image" src="https://github.com/user-attachments/assets/42c6f133-57f4-45a9-9dd1-0252ef50fbf8" />
+
 
 <br>
 Photo of Top case -<br>
