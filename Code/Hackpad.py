@@ -71,7 +71,7 @@ while True:
         diff = (current_position - last_position) // 2
         if diff != 0:
             mouse.move(wheel=-diff)
-            last_position = current_position
+        last_position = current_position
         time.sleep(0.05)
         led[0] = RED
 
