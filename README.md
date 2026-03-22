@@ -32,3 +32,7 @@ Onshape Link - https://cad.onshape.com/documents/47f8368e93eaf8da6dc25993/w/31c6
 
 
 Phot
+<br>
+<strong>BOM</strong>
+<img width="1018" height="92" alt="image" src="https://github.com/user-attachments/assets/c03a9e16-58f1-4b47-9a9a-e7c13e2fc37b" />
+
